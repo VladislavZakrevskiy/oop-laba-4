@@ -1,0 +1,6 @@
+/Users/vladzakrevski/oop/laba-4/build/CMakeFiles/figures_demo.dir
+/Users/vladzakrevski/oop/laba-4/build/CMakeFiles/figures_tests.dir
+/Users/vladzakrevski/oop/laba-4/build/CMakeFiles/run_tests.dir
+/Users/vladzakrevski/oop/laba-4/build/CMakeFiles/test.dir
+/Users/vladzakrevski/oop/laba-4/build/CMakeFiles/edit_cache.dir
+/Users/vladzakrevski/oop/laba-4/build/CMakeFiles/rebuild_cache.dir
